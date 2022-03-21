@@ -10,7 +10,9 @@ Instruksi Praktikum
 
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org Langkah-langkah Praktikum Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut. 
 
-Langkah-langkah Praktikum Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+Langkah-langkah Praktikum 
+
+Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 
 ![](images/1%20first.png)
 
