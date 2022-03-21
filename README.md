@@ -1,5 +1,12 @@
-# Lab3Web
-Form
+# Lab2Web
+###### Nama : Fara Deviana
+###### NIM : 312010407
+###### Kelas : TI.A.2
+
+## TugasCSSWebProgramming
+
+
+
 Instruksi Praktikum 
 
 1.Persiapkan text editor misalnya VSCode. 
@@ -16,7 +23,9 @@ Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 
 ![](images/1%20first.png)
 
-Membuat Ordered List Kemudian tambahkan kode untuk membuat Ordered List seperti berikut.
+## Membuat Ordered List Kemudian 
+
+tambahkan kode untuk membuat Ordered List seperti berikut.
 
 ![](images/2%20second.png)
 
@@ -24,7 +33,9 @@ Membuat Ordered List Kemudian tambahkan kode untuk membuat Ordered List seperti 
 
 ![](images/membuat%20list.jpg)
 
-Membuat Unorderd List Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut.
+## Membuat Unorderd List 
+
+Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut.
 
 
 ![](images/3%20third.png)
@@ -32,13 +43,17 @@ Membuat Unorderd List Kemudian tambakan kode untuk membuat Unordered List, setel
 ![](images/unorder%20list.jpg)
 
 
-Membuat Description List Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+## Membuat Description List 
+
+Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
 
 ![](images/4%20four.png)
 
 ![](images/description%20list.jpg)
 
-Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list. Membuat Tabel Buat file baru dengan nama lab3_tabel.html seperti berikut
+Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list. 
+
+## Membuat Tabel Buat file baru dengan nama lab3_tabel.html seperti berikut
 
 ![](images/5%20five.png)
 
@@ -48,20 +63,27 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 ![](images/membuat%20table.jpg)
 
-Mengatur Margin dan Padding Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
+## Mengatur Margin dan Padding 
+
+Untuk mengatur margin dan padding pada cel data, 
+
+tambahkan atribut cellpadding dan cellspacing pada tag table.
 
 ![](images/7%20seven.png)
 
 
 ![](images/cell%20padding.jpg)
 
-Menggabungkan Sel Data Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
+## Menggabungkan Sel Data 
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
 
 ![](images/8%20eight.png)
 
 ![](images/penggabungan%20cell.jpg)
 
-Membuat Form Buat file baru dengan nama lab3_form.html seperti berikut
+## Membuat Form 
+
+Buat file baru dengan nama lab3_form.html seperti berikut
 
 ![](images/9%20nine.png)
 
@@ -74,7 +96,9 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 ![](images/membuat%20form.jpg)
 
-Menabahkan Style pada Form Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut
+## Menabahkan Style pada Form 
+
+Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut
 
 ![](images/12%20twelve.png)
 
