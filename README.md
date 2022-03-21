@@ -58,7 +58,9 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 
 Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list. 
 
-## Membuat Tabel Buat file baru dengan nama lab3_tabel.html seperti berikut
+## Membuat Tabel 
+
+Buat file baru dengan nama lab3_tabel.html seperti berikut
 
 ![](images/5%20five.png)
 
