@@ -1,4 +1,4 @@
-# Lab2Web
+# Lab3Web
 ###### Nama : Fara Deviana
 ###### NIM : 312010407
 ###### Kelas : TI.A.2
@@ -33,6 +33,8 @@ tambahkan kode untuk membuat Ordered List seperti berikut.
 
 ![](images/membuat%20list.jpg)
 
+###### Gambar Tampilan Ordered List
+
 ## Membuat Unorderd List 
 
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut.
@@ -42,6 +44,7 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered l
 
 ![](images/unorder%20list.jpg)
 
+###### Gambar Tampilan Unordered List
 
 ## Membuat Description List 
 
@@ -50,6 +53,8 @@ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorder
 ![](images/4%20four.png)
 
 ![](images/description%20list.jpg)
+
+###### Gambar Description List
 
 Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list. 
 
@@ -63,6 +68,8 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 ![](images/membuat%20table.jpg)
 
+###### Gambar Membuat Tabel
+
 ## Mengatur Margin dan Padding 
 
 Untuk mengatur margin dan padding pada cel data, 
@@ -74,12 +81,16 @@ tambahkan atribut cellpadding dan cellspacing pada tag table.
 
 ![](images/cell%20padding.jpg)
 
+###### Gambar Penggunaan Cellpadding
+
 ## Menggabungkan Sel Data 
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal).
 
 ![](images/8%20eight.png)
 
 ![](images/penggabungan%20cell.jpg)
+
+###### Gambar Penggabungan Cellpadding
 
 ## Membuat Form 
 
@@ -96,6 +107,8 @@ Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti beriku
 
 ![](images/membuat%20form.jpg)
 
+###### Gambar Membuat Form
+
 ## Menabahkan Style pada Form 
 
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut
@@ -103,6 +116,8 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut
 ![](images/12%20twelve.png)
 
 ![](images/form%20CSS.jpg)
+
+###### Form dengan CSS
 
 Pertanyaan dan Tugas 
 1.Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection. 
